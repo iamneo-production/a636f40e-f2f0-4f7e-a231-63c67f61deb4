@@ -4,9 +4,7 @@ comment-box, #post {
     border: none;
     border-radius: 5px;
 }
-post:hover{
-    background-color: deeppink;
-}
+
 
 div {
     text-align: center;

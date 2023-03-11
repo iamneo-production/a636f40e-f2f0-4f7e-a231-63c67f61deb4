@@ -52,7 +52,6 @@ p{
   background-color: #333;
   overflow: hidden;
   position: center;
-  background-color: #333;
   overflow: hidden;
 }
 
@@ -90,7 +89,4 @@ comment-box, post {
   border-radius: 5px;
   padding: 10px;
   margin-bottom: 20px;
-}
-post:hover{
-  background-color: deeppink;
 }
