@@ -1,0 +1,93 @@
+#butto{
+    margin-left: 30px;
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 600;
+  }
+  #butto1{
+    margin-left: 30px;
+    margin-right: 30px;
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+  }
+  .nav-wrapper{
+  background-color:darkgrey!important;
+  }
+  .first{
+    overflow:hidden;
+  }
+  #nav-mobile li a{
+    font-family: 'Times New Roman', Times, serif;
+  font-weight: 600;
+  margin-left: 50px;
+  font-size: 20px;
+  
+  }
+  #nav-mobile li a:hover{
+    border-radius: 15px;
+  }
+  
+  .one{
+    background-color:azure;
+     height: 1800px;
+  
+ background-color:white;    
+  
+  }
+  #but{
+    height: 40px;
+    width: 300px;
+    margin-top: 20px;
+    border: 2px solid black;
+    margin-left: 900px;
+    padding-left: 20px;
+    font-size: 20px;
+    border-radius: 10px;
+  }
+  .pulse{
+    font-size: 40px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 600px;
+    padding-left: 200px;
+    padding-top:100px;
+  }
+  #imaging{
+  width: 600px;
+  height: 500px;
+  padding-top: 50px;
+  border-radius: 40px;
+  padding-left: 70px;
+  }
+  .pulse{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 600;
+    font-size: 30px;
+    text-align: justify;
+  
+  
+  }
+  #ico{
+  
+  width: 50px;
+  height: 50px;
+  
+  }
+
+  #boxer{
+    width: 80%;
+    height:400px;
+    border:2px solid;
+    margin-left:100px;
+  }
+  #boxer2{
+    width: 60%;
+    height:350px;
+    border:2px solid;
+    margin-left:100px;
+    margin-top:50px;
+  }
